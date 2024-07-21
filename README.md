@@ -1,4 +1,6 @@
-<h2 align="left">Hola! Mi nombre es Damaris y este es mi gitHub :3</h2>
+<h2 align="left">Hola! Bienvenid@ a mi GitHub 💙</h2>
+
+<p>Soy Full Stack developer, actualmente estudiando Java. Te invito a contactarme para saber mas de mi/mis proyectos!</p>
 
 ###
 
