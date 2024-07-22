@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.picrew.me/shareImg/org/202406/1729225_xXa5YG3T.png"  />
+<iframe src="https://giphy.com/embed/gEKz4VLX7fQlsl8SFE" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-technology-ai-gEKz4VLX7fQlsl8SFE">via GIPHY</a></p>
 
 ###
 
