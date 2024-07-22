@@ -11,7 +11,6 @@
 
 ###
 
-<iframe src="https://giphy.com/embed/gEKz4VLX7fQlsl8SFE" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 ###
 
 <div align="left">
